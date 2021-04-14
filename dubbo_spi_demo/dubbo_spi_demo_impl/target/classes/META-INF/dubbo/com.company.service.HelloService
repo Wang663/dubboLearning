@@ -1,0 +1,2 @@
+human=com.company.service.impl.humanHelloService
+laowang=com.company.service.impl.laowangHelloService
